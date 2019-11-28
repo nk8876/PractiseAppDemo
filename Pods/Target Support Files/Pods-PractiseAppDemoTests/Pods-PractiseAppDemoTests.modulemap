@@ -1,0 +1,6 @@
+framework module Pods_PractiseAppDemoTests {
+  umbrella header "Pods-PractiseAppDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
